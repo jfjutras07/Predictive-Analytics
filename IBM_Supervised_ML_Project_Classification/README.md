@@ -6,31 +6,31 @@ This repository contains my final project for the **Supervised Machine Learning*
 
 ## Contents
 
-1. **1-Supervised_ML_Project_EDA.ipynb** – Introduction and Exploratory Data Analysis (EDA)  
+1. **Supervised_ML_Project_EDA.ipynb** – Introduction and Exploratory Data Analysis (EDA)  
    - Overview of mental health challenges in the tech industry  
    - Initial exploration of dataset features  
    - Identification of patterns, missing values, and potential predictors  
 
-2. **2-Supervised_ML_Project_Data_Cleaning.ipynb** – Data Cleaning and Preparation  
+2. **Supervised_ML_Project_Data_Cleaning.ipynb** – Data Cleaning and Preparation  
    - Cleaning inconsistent and missing values  
    - Normalizing categories (e.g., Gender)  
    - Handling outliers (e.g., Age)  
    - Encoding categorical and ordinal variables  
    - Preparing the final dataset for modeling  
 
-3. **3-Supervised_ML_Project_Modeling.ipynb** – Modeling and Evaluation  
+3. **Supervised_ML_Project_Modeling.ipynb** – Modeling and Evaluation  
    - Splitting dataset into training and testing sets
    - Training multiple supervised classification models  
    - Evaluating model performance (accuracy, precision, recall, F1-score, ROC-AUC)  
    - Interpreting results and identifying influential predictors  
 
-4. **4-Supervised_ML_Project_Comment_Analysis.ipynb** – Qualitative Analysis of Survey Comments  
+4. **Supervised_ML_Project_Comment_Analysis.ipynb** – Qualitative Analysis of Survey Comments  
    - Cleaning and preprocessing open-ended comments  
    - Identifying recurring themes and sentiments  
    - Linking qualitative insights to treatment-seeking behavior  
    - Complementing quantitative findings for richer context  
 
-5. **5-Supervised_ML_Project_Actionable_Insights.ipynb** – Synthesis and Recommendations  
+5. **Supervised_ML_Project_Actionable_Insights.ipynb** – Synthesis and Recommendations  
    - Summarizing findings across all notebooks  
    - Highlighting key themes, barriers, and drivers of treatment-seeking  
    - Translating insights into actionable recommendations for organizations, managers, and policymakers
