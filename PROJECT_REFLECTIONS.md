@@ -41,3 +41,13 @@ The purpose is to document my learning progression transparently and ensure that
   2-In addition to including a summary at the end of each notebook, a section on limitations should be introduced to encourage deeper reflective analysis and improve transparency.
 
   ---
+
+### Project 3  
+
+**Project Name**: IBM ML Capstone Project
+
+**Month**: November 2025  
+
+**Link**:
+
+  ---
