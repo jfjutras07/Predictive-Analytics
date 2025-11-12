@@ -44,10 +44,12 @@ The purpose is to document my learning progression transparently and ensure that
 
 ### Project 3  
 
-**Project Name**: IBM ML Capstone Project
+**Project Name**: 
 
-**Month**: November 2025  
+**Month**:  
 
 **Link**:
+
+**Two weaknesses identified**:
 
   ---
