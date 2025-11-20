@@ -1,6 +1,6 @@
 # Predictive Analytics
 
-This repository contains predictive analytics projects across multiple domains, including municipal governance, healthcare, finance, and international development. Projects explore a variety of predictive techniques, such as classification, regression, forecasting, clustering, and more.
+This repository contains predictive analytics projects across multiple domains, including municipal governance, healthcare, and international development. Projects explore a variety of predictive techniques, such as classification, regression, forecasting, clustering, and more.
 ## Organization
 Each project is contained in its own folder at the root of this repository.
 
