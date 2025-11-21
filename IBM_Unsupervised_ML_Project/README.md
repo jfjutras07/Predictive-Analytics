@@ -1,6 +1,6 @@
 # IBM ML Course – Unsupervised Learning Project: Country Development Clustering
 
-This repository contains my final project for the Unsupervised Machine Learning module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes country-level socio-economic and health indicators from Kaggle to identify patterns among nations, cluster them according to development profiles, and provide actionable insights for international aid planning. The goal is to help organizations like HELP International prioritize interventions and allocate resources effectively.
+This file contains my final project for the Unsupervised Machine Learning module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes country-level socio-economic and health indicators from Kaggle to identify patterns among nations, cluster them according to development profiles, and provide actionable insights for international aid planning. The goal is to help organizations like HELP International prioritize interventions and allocate resources effectively.
 
 ## Contents
 
