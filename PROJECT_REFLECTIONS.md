@@ -14,7 +14,7 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Project Name**: IBM Supervised ML Project – Classification
 
-**Month**: Novembre 2025
+**Month**: July-August 2025
 
 **Link**: [IBM Supervised ML Project – Classification](https://github.com/jfjutras07/Predictive-Analytics/tree/main/IBM_Supervised_ML_Project_Classification)
 
@@ -28,7 +28,7 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Project Name**: IBM Unsupervised ML Project
 
-**Month**: November 2025  
+**Month**: September 2025  
 
 **Link**: [IBM Unsupervised ML Project](https://github.com/jfjutras07/Predictive-Analytics/tree/main/IBM_Unsupervised_ML_Project)
 
@@ -42,7 +42,7 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Project Name**: IBM Deep Learning Project
 
-**Month**: November 2025
+**Month**: October 2025
 
 **Link**: [IBM Deep Learning Project](https://github.com/jfjutras07/Predictive-Analytics/tree/main/IBM_Deep_Learning_Project)
 
