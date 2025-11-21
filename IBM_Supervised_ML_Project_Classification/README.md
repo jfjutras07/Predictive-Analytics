@@ -1,6 +1,6 @@
 # IBM ML Course – Supervised Classification Project: Mental Health in Tech
 
-This repository contains my final project for the **Supervised Machine Learning** module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes the **Mental Health in Tech Survey** dataset from Kaggle to predict whether employees are likely to seek mental health treatment and to identify the factors most associated with that decision. The insights aim to help HR and organizational leaders create data-informed wellness initiatives and foster a healthier workplace culture.
+This file contains my final project for the **Supervised Machine Learning** module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes the **Mental Health in Tech Survey** dataset from Kaggle to predict whether employees are likely to seek mental health treatment and to identify the factors most associated with that decision. The insights aim to help HR and organizational leaders create data-informed wellness initiatives and foster a healthier workplace culture.
 
 ---
 
