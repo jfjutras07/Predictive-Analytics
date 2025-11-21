@@ -1,6 +1,6 @@
 # IBM ML Course - Deep Learning Project : Building Energy Efficiency Prediction: Modeling Heating and Cooling Loads
 
-This repository contains my final project for the **Deep Learning** module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes the **Energy Efficiency Dataset** from the **UCI Machine Learning Repository** to predict **heating and cooling loads** based on building architectural features. The insights aim to help architects, engineers, and municipal decision-makers design or retrofit buildings for better energy efficiency.
+This file contains my final project for the **Deep Learning** module of the **IBM Machine Learning Professional Certificate (Coursera)**. The project analyzes the **Energy Efficiency Dataset** from the **UCI Machine Learning Repository** to predict **heating and cooling loads** based on building architectural features. The insights aim to help architects, engineers, and municipal decision-makers design or retrofit buildings for better energy efficiency.
 
 ---
 
