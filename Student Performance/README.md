@@ -1,5 +1,5 @@
 # Student Academic Performance & Resilience 
-### Predictive Risk Management  
+### Predictive Risk Management : Regression Modeling Project
 **Advanced Modeling & Sensitivity Analysis of Secondary Education Performance**
 
 ---
