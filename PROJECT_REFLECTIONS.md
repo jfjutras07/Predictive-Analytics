@@ -51,3 +51,15 @@ The purpose is to document my learning progression transparently and ensure that
 The modeling section should provide clearer explanations and justifications for the model choices and implementation decisions, ensuring stronger interpretability and methodological transparency.
 
   ---
+
+### Project 4
+
+**Project Name**: Student Academic Performance & Resilience
+
+**Month**: January 2026
+
+**Link**: [Student Academic Performance & Resilience](https://github.com/jfjutras07/Predictive-Analytics/tree/main/Student%20Performance)
+
+**Weakness identified**:
+
+The pipeline would benefit from deeper automation through a reusable library of generic data transformation functions to improve reproducibility and scalability. In addition, further work is needed to rigorously assess model robustness using appropriate validation tests and diagnostic visualizations, as predictive modeling requires a fundamentally different evaluation approach than purely descriptive statistical analyses.
