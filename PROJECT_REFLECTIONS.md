@@ -63,3 +63,17 @@ The modeling section should provide clearer explanations and justifications for 
 **Weakness identified**:
 
 The pipeline would benefit from deeper automation through a reusable library of generic data transformation functions to improve reproducibility and scalability. In addition, further work is needed to rigorously assess model robustness using appropriate validation tests and diagnostic visualizations, as predictive modeling requires a fundamentally different evaluation approach than purely descriptive statistical analyses.
+
+---
+
+### Project 5
+
+**Project Name**: Employee Attrition Prediction
+
+**Month**: January 2026
+
+**Link**: [Employee Attrition Prediction](https://github.com/jfjutras07/Predictive-Analytics/tree/main/Employee%20Attrition)
+
+**Weakness identified**:
+
+The current insights provide a high-level strategic overview through structured tables and visualizations; however, the framework would reach higher operational maturity by integrating dynamic "What-If" scenarios. Leveraging the existing models to simulate specific management interventions would transition the project from identifying historical patterns to providing a proactive decision-support tool for real-time evaluations.
