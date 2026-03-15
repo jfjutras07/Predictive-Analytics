@@ -38,24 +38,12 @@ Together, these variables capture multiple dimensions of customer value, includi
 
 Exploratory Data Analysis revealed several important behavioral dynamics:
 
-1- **Spending is not driven by income**
-
-Correlation between Annual Income and Spending Score is nearly zero, suggesting that **behavioral engagement outweighs economic capacity** as a driver of purchasing activity.
-
-2- **Loyalty as a spending accelerator**
-
-Customers with longer loyalty duration consistently show **higher spending scores**, highlighting the importance of long-term customer relationships.
-
-3- **Generational consumption patterns**
-
-The **26–35 age group** shows the highest spending activity, particularly in **Luxury and Fashion categories**, indicating a strong demographic concentration of consumption behavior.
-
-4- **Saver vs. Spender dynamic**
-
-Financial indicators reveal a dichotomy between:
-
-- **Financially conservative customers** (high savings, lower spending)
-- **Engaged spenders** (lower savings but higher purchase intensity)
+| Behavioral Insight | Description |
+|---|---|
+| **Spending is not driven by income** | Correlation between Annual Income and Spending Score is nearly zero, suggesting that **behavioral engagement outweighs economic capacity** as a driver of purchasing activity. |
+| **Loyalty as a spending accelerator** | Customers with longer loyalty duration consistently show **higher spending scores**, highlighting the importance of long-term customer relationships. |
+| **Generational consumption patterns** | The **26–35 age group** shows the highest spending activity, particularly in **Luxury and Fashion categories**, indicating a strong demographic concentration of consumption behavior. |
+| **Saver vs. Spender dynamic** | Financial indicators reveal a dichotomy between **financially conservative customers** (high savings, lower spending) and **engaged spenders** (lower savings but higher purchase intensity). |
 
 These patterns confirm the presence of **latent customer segments**, making the dataset well suited for clustering analysis.
 
@@ -126,35 +114,13 @@ This indicates that the segmentation structure is **consistent and reliable for 
 
 The clustering model revealed **five distinct customer archetypes** with unique behavioral and financial profiles.
 
-1- **Young Luxury Spenders**
-Young customers with **high income and extremely high spending scores**, strongly oriented toward luxury products.
-
-**Strategic value:** Premium revenue drivers  
-**Opportunity:** Maximize revenue through exclusive experiences and personalized luxury offerings.
-
-2- **Older Moderate Spenders**
-Older customers with **mid-range income and moderate purchasing behavior**, primarily interested in electronics.
-
-**Strategic value:** Stable but moderate revenue segment  
-**Opportunity:** Increase engagement and purchase frequency.
-
-3- **Young Budget-Conscious**
-Very young customers with **low income but high spending engagement**, mostly purchasing luxury and fashion products.
-
-**Strategic value:** Future high-value segment  
-**Opportunity:** Build long-term brand loyalty early.
-
-4- **Young Fashion Enthusiasts**
-Young customers with **moderate income and low overall spending**, but a strong preference for fashion products.
-
-**Strategic value:** Trend-driven segment  
-**Opportunity:** Increase engagement through seasonal collections and influencer marketing.
-
-5- **Mature High-Income Electronics**
-Older customers with **very high income but relatively low spending levels**, showing a strong preference for electronics.
-
-**Strategic value:** High upselling potential  
-**Opportunity:** Encourage premium electronics purchases and upgrade programs.
+| Customer Segment | Profile | Strategic Value | Opportunity |
+|---|---|---|---|
+| **Young Luxury Spenders** | Young customers with **high income and extremely high spending scores**, strongly oriented toward luxury products. | Premium revenue drivers | Maximize revenue through exclusive experiences and personalized luxury offerings. |
+| **Older Moderate Spenders** | Older customers with **mid-range income and moderate purchasing behavior**, primarily interested in electronics. | Stable but moderate revenue segment | Increase engagement and purchase frequency. |
+| **Young Budget-Conscious** | Very young customers with **low income but high spending engagement**, mostly purchasing luxury and fashion products. | Future high-value segment | Build long-term brand loyalty early. |
+| **Young Fashion Enthusiasts** | Young customers with **moderate income and low overall spending**, but a strong preference for fashion products. | Trend-driven segment | Increase engagement through seasonal collections and influencer marketing. |
+| **Mature High-Income Electronics** | Older customers with **very high income but relatively low spending levels**, showing a strong preference for electronics. | High upselling potential | Encourage premium electronics purchases and upgrade programs. |
 
 ---
 
@@ -212,19 +178,19 @@ This approach transforms segmentation from a **pure analytical exercise** into a
 
 ### Key Takeaways
 
-**Customer behavior is not determined by income**
+1- **Customer behavior is not determined by income**
 
 Spending intensity is largely independent of financial capacity, highlighting the importance of **behavioral engagement indicators** such as loyalty.
 
-**Young consumers drive luxury demand**
+2- **Young consumers drive luxury demand**
 
 The **26–35 demographic group** represents the most active spending population, particularly in **Luxury and Fashion categories**.
 
-**High-income customers are not necessarily high spenders**
+3- **High-income customers are not necessarily high spenders**
 
 The Mature High-Income Electronics segment demonstrates **significant upselling potential** despite low current spending levels.
 
-**Segmentation enables targeted marketing strategies**
+4- **Segmentation enables targeted marketing strategies**
 
 By identifying distinct behavioral archetypes, businesses can tailor their marketing efforts to **maximize customer engagement and lifetime value**.
 
