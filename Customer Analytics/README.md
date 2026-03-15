@@ -89,8 +89,6 @@ The best balance between **interpretability and segmentation quality** was achie
 **K-Means (k = 5 clusters)**  
 Silhouette Score ≈ **0.37**
 
-
-
 Although cluster separation is moderate, the structure captures meaningful behavioral differences across customers.
 
 **Stability Testing**
