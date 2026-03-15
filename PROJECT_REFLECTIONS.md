@@ -77,3 +77,17 @@ The pipeline would benefit from deeper automation through a reusable library of 
 **Weakness identified**:
 
 The current insights provide a high-level strategic overview through structured tables and visualizations; however, the framework would reach higher operational maturity by integrating dynamic "What-If" scenarios. Leveraging the existing models to simulate specific management interventions would transition the project from identifying historical patterns to providing a proactive decision-support tool for real-time evaluations.
+
+---
+
+### Project 6
+
+**Project Name**: Customer Analytics
+
+**Month**: March 2026
+
+**Link**: [Customer Analytics](https://github.com/jfjutras07/Predictive-Analytics/tree/main/Customer%20Analytics)
+
+**Weakness identified**:
+
+One improvement identified is the need to develop standardized project templates depending on the type and scope of analysis (e.g., supervised vs. unsupervised learning). Some projects may intentionally remain concise, while others can explore broader analytical and strategic scenarios. Establishing clear criteria and reusable project models will help ensure greater consistency and efficiency across future projects.
