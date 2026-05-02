@@ -91,3 +91,17 @@ The current insights provide a high-level strategic overview through structured 
 **Weakness identified**:
 
 One improvement identified is the need to develop standardized project templates depending on the type and scope of analysis (e.g., supervised vs. unsupervised learning). Some projects may intentionally remain concise, while others can explore broader analytical and strategic scenarios. Establishing clear criteria and reusable project models will help ensure greater consistency and efficiency across future projects.
+
+---
+
+### Project 7
+
+**Project Name**: Macroeconomic Time Series Analysis - Central America
+
+**Month**: May 2026
+
+**Link**: [Macroeconomic Time Series Analysis](https://github.com/jfjutras07/Predictive-Analytics/tree/main/Macroeconomic%20Time%20Series%20Analysis)
+
+**Weakness identified**:
+
+This project provides an initial and structured introduction to time series analysis and forecasting, but remains limited to basic linear models and standard evaluation methods. A key limitation is the lack of deeper methodological exploration in more advanced time series techniques. Future work should focus on strengthening foundational knowledge in time series analysis, including more advanced modeling approaches, to better capture complex temporal dynamics and improve predictive robustness.
